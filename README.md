@@ -1,4 +1,4 @@
-# Voice-Activated Navigation for Aneurysm Data
+# Voice User Interfaces for Effortless Navigation in Medical Virtual Reality Environments
 
 This project demonstrates how to use voice commands to interact with and navigate aneurysm data. 
 
