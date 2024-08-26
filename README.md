@@ -30,9 +30,8 @@ The project is optimized for use with the Valve Index for a complete experience.
 - Unzip the downloaded Docker repository.
 - Open a command prompt and navigate to the **.../src** directory within the unzipped Docker repository and run:
 
-
   ```bash docker-compose up --build ```
-  
+  - **Note:** A running instance of Docker Desktop in the background is required to execute this command.
   - This process may take some time as all necessary components are installed.
 
 ---
