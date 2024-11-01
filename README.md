@@ -61,3 +61,14 @@ The project is optimized for use with the Valve Index for a complete experience.
 # BibTeX Citation
 
 If you use our project in a scientific publication please use the following citation:
+
+@article{hombeck2024voice,
+  title={Voice user interfaces for effortless navigation in medical virtual reality environments},
+  author={Hombeck, Jan and Voigt, Henrik and Lawonn, Kai},
+  journal={Computers \& Graphics},
+  volume={124},
+  pages={104069},
+  year={2024},
+  publisher={Elsevier}
+}
+
